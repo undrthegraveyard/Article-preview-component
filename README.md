@@ -21,13 +21,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-![](./screenshot.jpg)
+![](./design/Final%20Design%20%20Mobile%20Preview.png)
+![](./design/Final%20Design%20Mobile%20Preview(Active%20State).png)
+![](./design/Final%20Design%20Desktop%20Preview.png)
+![](./design/Final%20Design%20Desktop%20Preview(Active%20State).png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:(https://github.com/undrthegraveyard/Article-preview-component.git)
+- Live Site URL:(https://undrthegraveyard.github.io/Article-preview-component/)
 
 ### Built with
 
@@ -37,14 +39,6 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 - Vanilla JavaScript
-
-### What I learned
-
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
 
 ## Author
 
